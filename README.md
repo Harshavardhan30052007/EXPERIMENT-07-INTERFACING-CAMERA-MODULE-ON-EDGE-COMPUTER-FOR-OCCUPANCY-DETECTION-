@@ -91,6 +91,7 @@ cv2.destroyAllWindows()
 
 ### SCREEN SHOTS OF OUTPUT 
 
+![WhatsApp Image 2025-05-15 at 11 51 56_d01c5032](https://github.com/user-attachments/assets/55677047-f4ba-400a-9324-bd0c065c045c)
 
 
 
@@ -98,7 +99,12 @@ cv2.destroyAllWindows()
 ### RASPI INTERFACE 
 
 
+![WhatsApp Image 2025-05-15 at 11 36 59_4926bf55](https://github.com/user-attachments/assets/bfe34691-1116-42dd-b722-be2f4821c628)
 
 
 ### Result:
 Occupancy detection using the HOG algorithm was successfully implemented. The system was able to identify and highlight human presence in real-time video streams.
+
+
+ 
+
