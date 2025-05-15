@@ -91,9 +91,8 @@ cv2.destroyAllWindows()
 
 ### SCREEN SHOTS OF OUTPUT 
 
-![WhatsApp Image 2025-05-15 at 11 51 56_d01c5032](https://github.com/user-attachments/assets/55677047-f4ba-400a-9324-bd0c065c045c)
 
-
+![WhatsApp Image 2025-05-15 at 11 51 56_7b0afe8d](https://github.com/user-attachments/assets/a0fe7fab-4b5d-4c52-91ab-3ffda0f01181)
 
 
 ### RASPI INTERFACE 
